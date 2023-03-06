@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &233955894900764792
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 404266513464617445, guid: 0c9f5d48515de4899951199950162583,
+        type: 3}
+      propertyPath: m_Name
+      value: Arrow Projectile Red
+      objectReference: {fileID: 0}
+    - target: {fileID: 8454639779133774391, guid: 0c9f5d48515de4899951199950162583,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8454639779133774391, guid: 0c9f5d48515de4899951199950162583,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8454639779133774391, guid: 0c9f5d48515de4899951199950162583,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8454639779133774391, guid: 0c9f5d48515de4899951199950162583,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8454639779133774391, guid: 0c9f5d48515de4899951199950162583,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8454639779133774391, guid: 0c9f5d48515de4899951199950162583,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8454639779133774391, guid: 0c9f5d48515de4899951199950162583,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8454639779133774391, guid: 0c9f5d48515de4899951199950162583,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8454639779133774391, guid: 0c9f5d48515de4899951199950162583,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8454639779133774391, guid: 0c9f5d48515de4899951199950162583,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8454639779133774391, guid: 0c9f5d48515de4899951199950162583,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1134516442153938969, guid: 0c9f5d48515de4899951199950162583,
+        type: 3}
+      propertyPath: speed
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1134516442153938969, guid: 0c9f5d48515de4899951199950162583,
+        type: 3}
+      propertyPath: hitEffect
+      value: 
+      objectReference: {fileID: 1072306210666502045, guid: f64c0e9bbfa37443bbb08122c33f0376,
+        type: 3}
+    - target: {fileID: 6484269022888614207, guid: 0c9f5d48515de4899951199950162583,
+        type: 3}
+      propertyPath: m_Size.z
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6484269022888614207, guid: 0c9f5d48515de4899951199950162583,
+        type: 3}
+      propertyPath: m_Center.z
+      value: 0.325
+      objectReference: {fileID: 0}
+    - target: {fileID: 5507849504927305290, guid: 0c9f5d48515de4899951199950162583,
+        type: 3}
+      propertyPath: m_Parameters.colorGradient.key0.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5507849504927305290, guid: 0c9f5d48515de4899951199950162583,
+        type: 3}
+      propertyPath: m_Parameters.colorGradient.key0.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5507849504927305290, guid: 0c9f5d48515de4899951199950162583,
+        type: 3}
+      propertyPath: m_Autodestruct
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0c9f5d48515de4899951199950162583, type: 3}
